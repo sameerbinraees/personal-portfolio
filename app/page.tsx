@@ -303,7 +303,7 @@ export default function Portfolio() {
             <ProjectCard
               title='ReviewArm'
               projectLink='https://www.reviewarm.com/'
-              description='an AI-powered solution to automate review request processes, generating more positive reviews, managing negative reviews, and enhancing business growth.'
+              description='An AI-powered solution to automate review request processes, generating more positive reviews, managing negative reviews, and enhancing business growth.'
               technologies={[
                 'Node.js',
                 'React.js',
@@ -313,6 +313,22 @@ export default function Portfolio() {
                 'SendGrid',
                 'Twilio',
                 'MongoDB',
+              ]}
+            />
+            <ProjectCard
+              title='ChatArm'
+              projectLink='https://www.chatarm.ai/'
+              description='AI-powered chatbot platform designed to help businesses enhance their customer interactions'
+              technologies={[
+                'Node.js',
+                'React.js',
+                'AWS',
+                'Zoho CRM',
+                'Zoho Billing',
+                'ZeptoMail',
+                'MongoDB',
+                'LangChain',
+                'RAG',
               ]}
             />
             <ProjectCard
@@ -356,7 +372,7 @@ export default function Portfolio() {
         className='fixed bottom-8 right-8 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-full shadow-lg hover:from-blue-600 hover:to-purple-700 transition-all'
         onClick={() =>
           window.open(
-            'https://drive.google.com/file/d/1xYhykmPwKR_nZGwcgy5rDhcAWsX1Li4V/view?usp=sharing',
+            'https://drive.google.com/file/d/1jPsicwQCpZSyGB7BIV8jaD-D_vcXH1Sj/view?usp=sharing',
             '_blank',
           )
         }
