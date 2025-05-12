@@ -372,7 +372,7 @@ export default function Portfolio() {
         className='fixed bottom-8 right-8 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-full shadow-lg hover:from-blue-600 hover:to-purple-700 transition-all'
         onClick={() =>
           window.open(
-            'https://drive.google.com/file/d/1B73cXA_jDlFnPwsJsiS9EK31lNMISyWh/view?usp=sharing',
+            'https://drive.google.com/file/d/1VgeBHtfVzII3A51o5vE5S0jgnEFwREzD/view?usp=sharing',
             '_blank',
           )
         }
