@@ -43,7 +43,7 @@ export const site = {
   availability: 'Open to opportunities',
   github: 'https://github.com/sameerbinraees',
   linkedin: 'https://linkedin.com/in/sameerbinraees',
-  resumeUrl: '/Sameer_Bin_Raees_resume.pdf',
+  resumeUrl: '/Muhammad_Sameer_Bin_Raees_Resume.pdf',
 };
 
 export const about: { heading: string; paragraphs: string[]; facts: Fact[] } = {
